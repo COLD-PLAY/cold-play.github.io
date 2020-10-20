@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to cold-play's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/COLD-PLAY/cold-play.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+一年時間過得真的很快，不知道爲什麽突然覺得繁體字很好看，於是就用繁體字寫下這一段字，希望你也能覺得好看。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我情竇初開得實在太晚了，二十一年的歲月中都沒有過什麽心動，但你的出現使得我身邊的事情都起了變化，也改變了我許多。我變得想知道另一個人在做什麽、在想什麽、在煩惱什麽，我是個沒有原則的人，你很會看人。就像飄在空中的蒲公英一樣，風往那邊吹，我便向著風的方向飃。你不一樣，你就站在那裏，跟一堵墻似的，風吹不動，我也吹不動。不過想要請你繼續作一堵墻，也不讓我隨風飄蕩。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/COLD-PLAY/cold-play.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+果然用繁體字寫出來的話如何都是有點文藝氣息的，感謝從你那裏知道的ctrl+shift+f簡繁體轉化快捷鍵，還要感謝這一年來的陪伴，感謝雖然很生硬但發自内心的這個轉折。想説的話還很多，但又不知從何説起，話多的人不會寫字。
